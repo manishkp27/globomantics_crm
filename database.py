@@ -49,7 +49,6 @@ class Database:
 
             # Style added in module 4
             return f"{bal:.2f} USD"
-            #manish: commented below line    
             # Style added in module 3
             # return f"$ {bal:.2f}"
 
